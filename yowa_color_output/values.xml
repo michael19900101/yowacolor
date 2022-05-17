@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!--【全局颜色】页遍历开始-->
+	<color name="page_bg_grey_color">#F5F6F7</color>
+	<color name="page_bg_white_color">#FFFFFF</color>
+	<color name="card_white_bg_color">#FFFFFF</color>
+	<color name="card_grey1_bg_color">#F7F9FA</color>
+	<color name="card_grey2_bg_color">#F5F6F7</color>
+	<color name="card_white1_bg_color">#FFFFFF</color>
+	<color name="card_white2_bg_color">#FFFFFF</color>
+	<color name="card_green_bg_color">#55E596（不</color>
+	<color name="divider_line1_color">#EEEEEE</color>
+	<color name="divider_line2_color">#F5F6F7</color>
+	<color name="divider_line3_color">#CCCCCC</color>
+	<color name="primary_green1_color">#55E596</color>
+	<color name="primary_green2_color">#59F09D</color>
+	<color name="auxiliary_blue1_color">#57B3FF</color>
+	<color name="auxiliary_blue2_color">#316DFB</color>
+	<color name="auxiliary_skyblue1_color">#46EBE2</color>
+	<color name="auxiliary_skyblue2_color">#2FC5EB</color>
+	<color name="auxiliary_purple1_color">#F051F6</color>
+	<color name="auxiliary_purple2_color">#C34BF6</color>
+	<color name="auxiliary_red1_color">#FF8667</color>
+	<color name="auxiliary_red2_color">#FB515A</color>
+	<color name="auxiliary_orange1_color">#FFA653</color>
+	<color name="auxiliary_orange2_color">#FF7B53</color>
+	<color name="auxiliary_yellow1_color">#FFCD44</color>
+	<color name="auxiliary_yellow2_color">#F59547</color>
+	<color name="auxiliary_green1_color">#9EF138</color>
+	<color name="auxiliary_green2_color">#45DE1E</color>
+	<color name="primary2_green_color">#55E596</color>
+	<color name="auxiliary2_blue_color">#56AFF9</color>
+	<color name="auxiliary2_skyblue_color">#45E5DD</color>
+	<color name="auxiliary2_purple_color">#C253F1</color>
+	<color name="auxiliary2_pink_color">#C253F1</color>
+	<color name="auxiliary2_red_color">#C253F1</color>
+	<color name="auxiliary2_orange_color">#FF7B53</color>
+	<color name="auxiliary2_yellow_color">#F5C147</color>
+	<color name="auxiliary2_green_color">#99F22B</color>
+	<color name="rank1_gradient1_color">#FF60C9</color>
+	<color name="rank1_gradient2_color">#F74C71</color>
+	<color name="rank2_gradient1_color">#FFA653</color>
+	<color name="rank2_gradient2_color">#FF7B53</color>
+	<color name="rank3_gradient1_color">#FFD044</color>
+	<color name="rank3_gradient2_color">#F59E47</color>
+	<color name="rank_other_bg_color">#9EA3B8</color>
+	<color name="mask_black_color_20">#33000000</color>
+	<color name="mask_black_color_30">#4c000000</color>
+	<color name="mask_black_color_50">#7F000000</color>
+	<color name="mask_black_color_70">#B2000000</color>
+	<color name="mask_black_color_90">#E5000000</color>
+	<color name="mask_light1_color">#00FFFFFF</color>
+	<color name="mask_light2_color">#B2FFFFFF</color>
+	<color name="mask_light3_color">#FFFFFF</color>
+	<color name="mask_light_80_color">#CCEBEBEB</color>
+	<color name="mask_light_100_color">#EBEBEB</color>
+	<color name="input_bg_color">#F5F6F7</color>
+	<!--【全局颜色】页遍历结束-->
+	<!--【标签】页遍历开始-->
+	<color name="label_bg_grey_color">#F3F5F8</color>
+	<color name="label_bg_white_color">#4cFFFFFF</color>
+	<!--【标签】页遍历结束-->
+	<!--【文字颜色】页遍历开始-->
+	<color name="text_green1_color">#55E596</color>
+	<color name="text_green2_color">#55E596</color>
+	<color name="text_black1_color">#222222</color>
+	<color name="text_black2_color">#666666</color>
+	<color name="text_black3_color">#999999</color>
+	<color name="text_black4_color">#AAAAAA</color>
+	<color name="text_black5_color">#CCCCCC</color>
+	<color name="text_white_color">#FFFFFF</color>
+	<color name="text_white_or_black_color">#FFFFFF</color>
+	<color name="text_disable_color">#FFFFFF</color>
+	<color name="text_placeholder_color">#AAAAAA</color>
+	<color name="text_moment_comment_name_color">#99A2AA</color>
+	<color name="text_link_blue_color">#2B78BF</color>
+	<color name="text_blue_color">#00A6D9</color>
+	<color name="text_rang_color">#A5A9B7</color>
+	<!--【文字颜色】页遍历结束-->
+	<!--【按钮】页遍历开始-->
+	<color name="btn_bg_green_color">#55E596</color>
+	<color name="btn_gradient1_color">#59F09D</color>
+	<color name="btn_gradient2_color">#3CCEEF</color>
+	<color name="btn_bg_grey1_color">#F5F8FA</color>
+	<color name="btn_bg_grey2_color">#F5F6F7</color>
+	<color name="btn_bg_grey3_color">#F3F5F8</color>
+	<color name="btn_line_green_color">#55E596</color>
+	<color name="btn_line_grey1_color">#EEEEEE</color>
+	<color name="btn_line_grey2_color">#999999</color>
+	<color name="btn_bg_white_color">#FFFFFF</color>
+	<color name="btn_disabled_color">#DDDDDD</color>
+	<!--【按钮】页遍历结束-->
+</resources>
